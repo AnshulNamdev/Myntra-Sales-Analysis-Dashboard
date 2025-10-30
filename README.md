@@ -69,6 +69,7 @@ Focused on sales revenue breakdown:
 
 State-wise sales and order summary by brand.
 
+
 Provides a tabular comparison of sales across different regions.
 
 🔍 Key Insights
@@ -89,3 +90,4 @@ Provides a tabular comparison of sales across different regions.
 ✔ Clean layout and easy-to-read visuals
 
 # Picture Preview
+https://github.com/AnshulNamdev/Myntra-Sales-Analysis-Dashboard/blob/main/Snapshot%20of%20Dashboard.png
